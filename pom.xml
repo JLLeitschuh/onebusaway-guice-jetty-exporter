@@ -12,7 +12,7 @@
   <url>https://github.com/OneBusAway/onebusaway-guice-jetty-exporter/wiki/</url>
 
   <properties>
-    <jetty.version>9.0.5.v20130815</jetty.version>
+    <jetty.version>9.4.34.v20201102</jetty.version>
     <!--  These properties are primarily used in configuring joint integration tests -->
     <org_onebusaway_test_port>9900</org_onebusaway_test_port>    
   </properties>
